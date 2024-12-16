@@ -1,5 +1,4 @@
-/* Elementlarni tanlash va o'zgartirish */
-/* body {
+body {
     font-family: sans-serif;
     text-align: center;
     margin-top: 50px;
@@ -26,12 +25,9 @@
     font-size: 18px;
     font-weight: bold;
     color: green;
-} */
+} 
 
 
-/* TODO list */
 
 
-.wrap {
-   
-}
+
